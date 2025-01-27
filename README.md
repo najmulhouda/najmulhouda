@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmulhouda&label=Profile%20views&color=0e75b6&style=flat" alt="najmulhouda" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **.net and sql**
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **html, css javascript**
+- 💬 Ask me about **html, css javascript, React , Svelte, SQL, Jquery**
 
 - 📫 How to reach me **najmulhouda6@gmail.com**
 
