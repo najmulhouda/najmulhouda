@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [http://najmul.me](http://najmul.me)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **html, css javascript**
 
